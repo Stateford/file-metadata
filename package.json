@@ -1,0 +1,27 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "project for freecodecamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idietmoran/file-metadata.git"
+  },
+  "author": "idietmoran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idietmoran/file-metadata/issues"
+  },
+  "homepage": "https://github.com/idietmoran/file-metadata#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.4",
+    "morgan": "^1.6.1",
+    "multer": "^1.1.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "file-metadata",
+  "description": "project for freecodecamp",
+  "main": "server.js",
+  "authors": [
+    "idietmoran"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/idietmoran/file-metadata",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
