@@ -1,5 +1,5 @@
 // config/database.js
 
 module.exports = {
-    db: "localhost:27017"
+    db: "mongodb://localhost:27017"
 }
