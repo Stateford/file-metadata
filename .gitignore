@@ -1,3 +1,4 @@
 data/
 public/lib
 node_modules/
+*.sh
